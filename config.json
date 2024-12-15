@@ -1,8 +1,8 @@
 {
-   "owner": "6285887776722",
-   "owner_name": "Wildan Izzudin",
+   "owner": "6285603256172",
+   "owner_name": "King Sepp",
    "database": "data",
-   "limit": 15,
+   "limit": 150,
    "ram_limit": "900mb",
    "max_upload": 50,
    "max_upload_free": 10,
@@ -16,7 +16,7 @@
    "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
    "pairing": {
       "state": true,
-      "number": 62857035017449
+      "number": 6289501954399
    },
    "replit_url": ""
 }
